@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java , MERN stack**
 
-- ⚡ Fun fact **I think I'm always curious**
+- ⚡ Fun fact **I'm always curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
